@@ -46,6 +46,7 @@ while True:
             else:
                 answer.pop(j)
     if len(answer)==0:
-        print("給錯答案了！")
+        print("Wrong Answer！")
         break
+
 
